@@ -1,0 +1,28 @@
+# Documentation License
+
+Copyright © 2026 Mikhail Lebedev.
+
+Unless a file or section is explicitly marked otherwise, the original documentation in this repository — including the authored text, translations, explanations, tables, and editorial arrangement — is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+- License summary: https://creativecommons.org/licenses/by/4.0/
+- Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Suggested attribution
+
+When reusing this documentation, a suitable attribution is:
+
+> “Cudy WR3000U — scheduled LED control on OpenWrt” by Mikhail Lebedev, https://github.com/lebvmikhail/cudy-wr3000u-led-schedule, licensed under CC BY 4.0. Changes: [describe changes, if any].
+
+You may use another reasonable attribution format that satisfies the license conditions.
+
+## Materials not covered by this notice
+
+This license applies only to the original material that the repository author is entitled to license. It does **not** relicense third-party material or grant rights the author does not hold.
+
+In particular:
+
+- The earlier technical ideas and posts by **zerocash**, **skafin**, and moderator **a43** on 4PDA are acknowledged as sources. Their posts and contributions remain subject to their respective authors' rights and applicable forum terms.
+- External documentation, quoted material, photographs, logos, trademarks, firmware, and software remain subject to their own licenses, terms, and rights.
+- Product and project names are used for identification and do not imply endorsement.
+
+The CC BY 4.0 license terms govern reuse of the original documentation described above. Please consult the linked legal code for the complete terms.
