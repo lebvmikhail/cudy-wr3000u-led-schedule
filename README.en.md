@@ -8,6 +8,7 @@ A practical guide to configuring the seven Cudy WR3000U indicators in LuCI and s
 
 - [Русская версия](README.md)
 - [Verification and rollback checklist](docs/verification-and-rollback.md)
+- [Documentation license — CC BY 4.0](LICENSE)
 - [Original 4PDA post](https://4pda.to/forum/index.php?showtopic=1123233&view=findpost&p=145076946)
 
 ## What this setup does
@@ -124,4 +125,6 @@ The technical approach builds on posts by **zerocash**, **skafin**, and moderato
 
 ## License
 
-No license for reuse has been selected yet. Public availability on GitHub does not, by itself, grant permission to copy, modify, or redistribute this documentation.
+The original documentation created for this repository — text, explanations, translation, tables, and editorial arrangement — is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See [LICENSE](LICENSE) for the scope and details.
+
+This license does not relicense third-party material or grant rights the author does not hold. In particular, posts and prior contributions by **zerocash**, **skafin**, and **a43** on 4PDA, external documentation, photographs, trademarks, firmware, and software remain subject to their own rights and terms.
